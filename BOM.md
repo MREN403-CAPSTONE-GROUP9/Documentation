@@ -29,7 +29,7 @@ All amounts are CAD. Planned amounts are allowances, and the remaining budget de
 |P07 | LiDAR Livox Avia                  |1    | Obtained   | Obtained at no cost from Prof. Gammell | $0.00 | LiDAR with Livox Converter 2.0 - so we do not need a buck boost converter  |
 |P08 | 12V DC Motor 12kg-cm 350RPM w/Encoder | 4 | Considering | $41.43 ea | xxx | Second option for replacement DC motors, pricier than first option so we will see how much budget remaining| 
 |P09 | M9N GPS | 2 | Obtained | Obtained at no cost from Prof. Gammell| $0.00 | GPS https://holybro.com/products/m9n-gps?variant=46575105081533 | 
-|P10 | Tenergy TN267 1-4 Cells LiPO/LiFE Balance Charger|1|Requesting|$48.56|xxx|We need this to charge our battery  https://ca.robotshop.com/products/tenergy-tn267-1-4-cells-lipo-life-balance-charge|
+|P10 | Tenergy TN267 1-4 Cells LiPO/LiFE Balance Charger|1|Requesting|$48.56|xxx|We need this to charge our battery  https://ca.robotshop.com/products/tenergy-tn267-1-4-cells-lipo-life-balance-charger?qd=v1.mKoXcsLpkzSNR9bD_YrtWA.ca-en.1794868484.1-5-5-0.9f852bde2408e116.w2H72EdwfNlvyejhPdE_zGpKNeozlz7UGRLAYpgFY7U~a1.1.product.4b335e8c-9438-4d1d-843c-8817c33e8d8b.autocomplete.8QBdIuayCueFYb25VzxlAA|
 
 
 
