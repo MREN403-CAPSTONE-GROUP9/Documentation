@@ -1,5 +1,5 @@
 # Frosty Bill of Materials
-## MREN 403 · Group 9 · Lynxmotion A4WD1 snow-clearing rover · Updated November 8, 2026
+## MREN 403 · Group 9 · Lynxmotion A4WD1 snow-clearing rover · Updated November 16, 2026
 
 ### Use this file to track what we have, what needs to be purchased, and what needs to be fabricated. Update each item’s status and actual cost when it is sourced. Record decisions and bench results below so we can follow how the design changed.
 
